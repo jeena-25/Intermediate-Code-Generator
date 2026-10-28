@@ -1,0 +1,8 @@
+// Euclid's GCD using a while loop
+int a = 48, b = 18, t;
+while (b != 0) {
+    t = b;
+    b = a % b;
+    a = t;
+}
+print(a);
