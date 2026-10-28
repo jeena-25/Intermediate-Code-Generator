@@ -171,7 +171,3 @@ The 11 tests cover operator precedence, unary minus, if/else, while and for loop
 ## Author
 
 **Jeena Joseph**, B.Tech Computer Science and Engineering, St. Vincent Pallotti College of Engineering and Technology, Nagpur.
-
-## License
-
-Released under the [MIT License](LICENSE).
